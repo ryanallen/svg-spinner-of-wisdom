@@ -32,7 +32,7 @@ SVG Version: 6.00 Build 0)  -->
 
 
 	<circle 
-		id="spinner-path" 
+		id="spinner-path-stroked" 
 		fill="none" 
 		stroke="#333333" 
 		stroke-miterlimit="10" 
