@@ -32,7 +32,7 @@ SVG Version: 6.00 Build 0)  -->
 		}
 	</style>
 	<circle
-		id="spinner-path"
+		id="spinner-path-stroked"
 		class="st0"
 		
 
